@@ -13,7 +13,7 @@ public class RateBLL {
 	
 	static double getRate(int GivenCreditScore) throws RateException 
 	{
-		double dInterestRate = 0;
+		double dInterestRate = 0; //test
 		
 		//TODO - RocketBLL RateBLL.getRate - make sure you throw any exception
 		
